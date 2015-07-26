@@ -1,0 +1,16 @@
+**v1.0.3**
+* Newest DRTracker added
+
+**v1.0.2**
+* Auto hide Blizzard's frame border
+* Adjust frame position and scale
+
+**v1.0.1**
+* Auto find the right place for showing frame on RAID frame
+
+**v1.0.0**
+* Add a raw trinkets frame and DRTracker frame
+* New options panel
+* Display roots
+* Display immunities
+* Add options to adjust scale

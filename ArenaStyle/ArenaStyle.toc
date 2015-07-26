@@ -1,0 +1,7 @@
+﻿## Interface: 60000
+## Title: ArenaStyle
+## Notes: Add more buffs and debuffs to the default compact raid frame and enlarge the size of cc debuffs 
+## Author: liujshi
+## SavedVariables: ArenaStyleDB
+## Version: 0.4
+ArenaStyle.lua

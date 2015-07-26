@@ -1,0 +1,15 @@
+## Interface: 60000
+## Title: sArena
+## Notes: Improved arena frames.
+## Author: Stako,liujshi
+## Version: 1.0.3
+
+## SavedVariables: sArenaDB
+
+tekKonfig\tekKonfig.xml
+DRData-1.0.lua
+sArena.lua
+trinkets.lua
+options.lua
+DRTracker.lua
+localization.lua

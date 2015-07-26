@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: LoseControl
+## Author: Kouri,liujshi
+## Notes: Displays the duration of CC effects on your character
+## SavedVariablesPerCharacter: LoseControlDB
+
+localization.lua
+LoseControl.lua
